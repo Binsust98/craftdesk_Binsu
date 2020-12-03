@@ -12,16 +12,16 @@
     <nav class="navbar navbar-expand-sm bg-danger navbar-dark">
         <ul class="navbar-nav">
           <li class="nav-item active">
-            <a class="nav-link" href="index.html">HOME</a>
+            <a class="nav-link" href="index.php">HOME</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="crafts.html">CRAFTS</a>
+            <a class="nav-link" href="crafts.php">CRAFTS</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="trending.html">TRENDING</a>
+            <a class="nav-link" href="trending.php">TRENDING</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="join.html">JOIN US</a>
+            <a class="nav-link" href="join.php">JOIN US</a>
           </li>
         </ul>
       </nav>
